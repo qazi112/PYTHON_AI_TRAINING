@@ -1,0 +1,19 @@
+https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
+
+https://realpython.com/face-recognition-with-python/
+
+https://www.hackster.io/trivediswap25/face-and-eye-detection-in-python-using-opencv-5a5b10
+
+https://medium.com/datadriveninvestor/machine-learning-on-facial-recognition-b3dfba5625a7
+
+
+https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590
+
+https://builtin.com/data-science/supervised-machine-learning-classification
+
+============================================================
+Youtube Qazi Video of PYTHON AI
+https://www.youtube.com/watch?v=XIrOM9oP3pA&t=17089s
+
+
+==============================================================
